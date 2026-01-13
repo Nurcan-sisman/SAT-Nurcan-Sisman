@@ -29,13 +29,18 @@ Yarış pisti ve bitiş çizgisi
 
  .exe olarak çalıştırılabilir sürüm
 
- Kontroller 
+ KONTROLLER 
 
 Tuş	İşlev
+
 W	Gaz
+
 S	Fren / Geri
+
 A	Sola Dön
+
 D	Sağa Dön
+
 ESC	Çıkış
 
 
