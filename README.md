@@ -93,8 +93,3 @@ Bu proje, Sistem Analizi ve Tasarımı dersi kapsamında geliştirilmiştir.
 Amaç, Unreal Engine kullanarak oyun geliştirme sürecini uygulamalı olarak öğrenmektir.
 
 
-
- LİSANS
-
-
-Bu proje eğitim amaçlı geliştirilmiştir.
