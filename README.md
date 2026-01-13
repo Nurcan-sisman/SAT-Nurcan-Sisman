@@ -80,12 +80,8 @@ proje/
 ├── MyProject4.uproject
 
 
-🗃️ Veritabanı
 
-
-Bu projede herhangi bir veritabanı kullanılmamıştır.
-
-🎓 Akademik Bilgi
+🎓 AKADEMİK BİLGİ
 
 
 Bu proje, Sistem Analizi ve Tasarımı dersi kapsamında geliştirilmiştir.
