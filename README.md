@@ -70,9 +70,13 @@ Oyun otomatik olarak başlar
 
 proje/
 │
+
 ├── Content
+
 ├── Config
+
 ├── MyProject4.uproject
+
 
 🗃️ Veritabanı
 
